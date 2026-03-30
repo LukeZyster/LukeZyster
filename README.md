@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi there, my name is Luke Zyster 👋</h1>
 
 ###
 
@@ -29,8 +29,9 @@
 
 ###
 
-<p align="left">I'm Luke Zyster from Wellington, Western Cape, South Africa<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently studying Diploma : ICT Application Development<br>- ⚡ In my free time I code and I go gymming || running.</p>
-
+<p align="left">My name is Luke Zyster and I am from Wellington, Western Cape, South Africa<br><br>- 🔭<br>- 📚 I'm currently studying Diploma : ICT Application Development at the Cape Peninsula University of Technology<br>- ⚡ In my free time I code and I go gymming || running.</p>
+<p align="left">
+  </p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -71,6 +72,16 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LukeZyster&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+<div>
+  <Projects:
+  
+  >
+</div>
+<div>
+  <"Mockinterview:
+  
+  >
 </div>
 
 ###
