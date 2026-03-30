@@ -2,7 +2,7 @@
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRwYWV2emh6NDcxNDF1dzVwYnI1cnlvNzM0bmJuYWp2anZqMWd4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
 </div>
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luke-john-zyster-299908352/" target="_blank">
@@ -13,30 +13,30 @@
   </a>
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://count.getloli.com/@:LukeZyster?theme=minecraft&padding=4&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
-###
+
 
 <h1 align="center">Hi there, my name is Luke Zyster 👋</h1>
 
-###
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+
 
 <p align="left">My name is Luke Zyster and I am from Wellington, Western Cape, South Africa<br><br>- 🔭<br>- 📚 I'm currently studying Diploma : ICT Application Development at the Cape Peninsula University of Technology<br>- ⚡ In my free time I code and I go gymming || running.</p>
 <p align="left">
   </p>
-###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -64,24 +64,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LukeZyster&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <div>
   Projects:
+  1) Student App - This app allowed admin and students to log in to an app and each would get directed to either an admin or student UI. The app also had a marketplace function which allowed students to buy products off the app.
+  2) Checkers 60/60 app redesign - This was a project where we took the existing checkers app and analyzed it to find all it shortcomings. We added new fixtures to the design that were more user friendly and more efficient.
   
   
 </div>
 <div>
   Mock interview & CV:
-  
+  This is a link to my Mock Interview: https://youtu.be/OrggPRaTJNM
+  This is a link to my CV: 
   
 </div>
 
-###
+
