@@ -83,7 +83,7 @@
 <div>
   Mock interview & CV:<br>
   This is a link to my Mock Interview: https://youtu.be/OrggPRaTJNM<br>
-  This is a link to my CV: 
+  This is a link to my CV: https://lukezyster.github.io/
   
 </div>
 
