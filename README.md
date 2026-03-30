@@ -74,7 +74,7 @@
   <img src="https://streak-stats.demolab.com?user=LukeZyster&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <div>
-  Projects:
+  Projects:<br>
   1) Student App - This app allowed admin and students to log in to an app and each would get directed to either an admin or student UI. The app also had a marketplace function which allowed students to buy products off the app.<br>
   2) Checkers 60/60 app redesign - This was a project where we took the existing checkers app and analyzed it to find all it shortcomings. We added new fixtures to the design that were more user friendly and more efficient.<br>
   
