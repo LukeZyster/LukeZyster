@@ -75,14 +75,14 @@
 </div>
 <div>
   Projects:
-  1) Student App - This app allowed admin and students to log in to an app and each would get directed to either an admin or student UI. The app also had a marketplace function which allowed students to buy products off the app.
-  2) Checkers 60/60 app redesign - This was a project where we took the existing checkers app and analyzed it to find all it shortcomings. We added new fixtures to the design that were more user friendly and more efficient.
+  1) Student App - This app allowed admin and students to log in to an app and each would get directed to either an admin or student UI. The app also had a marketplace function which allowed students to buy products off the app.<br>
+  2) Checkers 60/60 app redesign - This was a project where we took the existing checkers app and analyzed it to find all it shortcomings. We added new fixtures to the design that were more user friendly and more efficient.<br>
   
   
 </div>
 <div>
-  Mock interview & CV:
-  This is a link to my Mock Interview: https://youtu.be/OrggPRaTJNM
+  Mock interview & CV:<br>
+  This is a link to my Mock Interview: https://youtu.be/OrggPRaTJNM<br>
   This is a link to my CV: 
   
 </div>
