@@ -21,20 +21,20 @@
 
 
 
-<h1 align="center">Hi there, my name is Luke Zyster 👋</h1>
+<h1 align="center">Hi there, my name is Luke Zyster </h1>
 
 
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left"> About Me</h3>
 
 
 
-<p align="left">My name is Luke Zyster and I am from Wellington, Western Cape, South Africa<br><br>- 🔭<br>- 📚 I'm currently studying Diploma : ICT Application Development at the Cape Peninsula University of Technology<br>- ⚡ In my free time I code and I go gymming || running.</p>
+<p align="left">My name is Luke Zyster and I am from Wellington, Western Cape, South Africa<br>  I'm currently studying Diploma : ICT Application Development at the Cape Peninsula University of Technology<br>  In my free time I code and I go gymming || running.</p>
 <p align="left">
   </p>
 
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left"> Language and tools</h3>
 
 
 
@@ -66,7 +66,7 @@
 
 
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">  My Stats :</h3>
 
 
 
