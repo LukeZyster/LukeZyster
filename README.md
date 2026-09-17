@@ -29,7 +29,16 @@
 
 
 
-<p align="left">My name is Luke Zyster and I am from Wellington, Western Cape, South Africa<br>  I'm currently studying Diploma : ICT Application Development at the Cape Peninsula University of Technology<br>  In my free time I code and I go gymming || running.</p>
+<p align="left">Hi, I'm Luke Zyster<br>
+
+ I am a Third-year Diploma student in ICT Application Development at Cape Peninsula University of Technology<br>
+ Based in Cape Town, Western Cape, South Africa <br>
+
+I'm a driven and disciplined developer who enjoys tackling difficult problems and pushing through challenges rather than avoiding them. I work well as part of a team, but I'm just as comfortable working independently, and I pride myself on always meeting my deadlines. I combine strong technical curiosity with solid communication skills, and I bring an optimistic, hardworking mindset to everything I build.<br>
+
+ My goal is to grow into a full-stack developer, and further down the line, move into a management role.<br>
+
+ When I'm not coding, I'm usually at the gym or out running — training the same consistency and discipline I apply to my work.<br></p>
 <p align="left">
   </p>
 
