@@ -75,10 +75,9 @@ I'm a driven and disciplined developer who enjoys tackling difficult problems an
 
 <h3 align="left">  My Stats :</h3>
 
+![snake gif](https://github.com/LukeZyster/LukeZyster/blob/output/github-snake-dark.svg)
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LukeZyster&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <div>
   Projects:<br>
