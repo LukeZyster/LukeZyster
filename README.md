@@ -75,7 +75,7 @@ I'm a driven and disciplined developer who enjoys tackling difficult problems an
 
 <h3 align="left">  My Stats :</h3>
 
-![snake gif](https://github.com/LukeZyster/LukeZyster/blob/output/github-snake-dark.svg)
+
 
 
 </div>
