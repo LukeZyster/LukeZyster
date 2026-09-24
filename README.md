@@ -76,7 +76,12 @@ I'm a driven and disciplined developer who enjoys tackling difficult problems an
 <h3 align="left">  My Stats :</h3>
 
 
-![snake gif](https://github.com/LukeZyster/LukeZyster/blob/output/github-snake-dark.svg)
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/LukeZyster/LukeZyster/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+  />
+</div>
 
 </div>
 <div>
